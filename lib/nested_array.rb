@@ -24,6 +24,7 @@ def assembled_matrix
   matrix = []
   matrix << ORGANIC_PRODUCE
   matrix << CONVENTIONAL_PRODUCE
+  matrix
 end
 
 def sorted_matrix
